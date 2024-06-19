@@ -1,0 +1,9 @@
+.view_css {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.tablecontainer_css {
+    min-height: 90vh;
+}
